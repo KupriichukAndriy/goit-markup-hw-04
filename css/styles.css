@@ -154,6 +154,7 @@ ul, p, h1, h2, h3, h4, h5, h6 {
     line-height: 1.14;
     text-decoration: none;
     letter-spacing: 0.02em;
+    padding: 32px 0;
     color: var(--second-text-color);
 }
 
@@ -162,10 +163,7 @@ ul, p, h1, h2, h3, h4, h5, h6 {
     color: var(--accent-color);
 }
 
-.header-link, .header-address {
-    padding: 32px 0;
-    display: block;
-}
+
 
 .icon-header {
     fill: currentColor;
